@@ -1,0 +1,9 @@
+CIA Triad
+- Confidentiality
+- Integrity
+- Availability
+Ports
+80=HTTP
+443=HTTPS
+IP Address
+Unique identifier for a device on a network, 
